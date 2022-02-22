@@ -20,7 +20,7 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 - Envio de correos
 
 ## Paleta de colores
-![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/paletaazul.PNG
+![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/paletaazul.PNG)
 
 ## Buyer persona 
 ![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/Usuario.jpg)
