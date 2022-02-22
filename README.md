@@ -9,7 +9,11 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 ## Contenido
  - [Requerimientos](https://github.com/KarenHernandez08/Abogabot#requerimientos)
  - [Paleta de colores](https://github.com/KarenHernandez08/Abogabot#paleta-de-colores)
- - [Buyer persona]()
+ - [Buyer persona](https://github.com/KarenHernandez08/Abogabot#buyer-persona)
+ - [Publico objetivo](https://github.com/KarenHernandez08/Abogabot#publico-objetivo)
+ - [Wireframe Ux](https://github.com/KarenHernandez08/Abogabot#wireframe ux)
+ - [Interface de Usuario](https://github.com/KarenHernandez08/Abogabot#)
+
 
 ## Requerimientos
 - Página web responsive
@@ -20,7 +24,12 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 - Envio de correos
 
 ## Paleta de colores
-![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/paletaazul.PNG)
+![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/olas.PNG)
+![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/paleta.PNG)
 
 ## Buyer persona 
 ![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/Usuario.jpg)
+
+## Publico objetivo
+## Wireframe Ux
+## Interface de Usuario
