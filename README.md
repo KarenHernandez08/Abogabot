@@ -11,7 +11,7 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
  - [Paleta de colores](https://github.com/KarenHernandez08/Abogabot#paleta-de-colores)
  - [Buyer persona](https://github.com/KarenHernandez08/Abogabot#buyer-persona)
  - [Publico objetivo](https://github.com/KarenHernandez08/Abogabot#publico-objetivo)
- - [Wireframe Ux](https://github.com/KarenHernandez08/Abogabot#wireframe ux)
+ - [Wireframe Ux](https://github.com/KarenHernandez08/Abogabot#wireframe-ux)
  - [Interface de Usuario](https://github.com/KarenHernandez08/Abogabot#)
 
 
