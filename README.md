@@ -1,6 +1,6 @@
 # Abogabot
 
-##Caso: `Abogabot`
+## Caso: `Abogabot`
 
 ## Descripción: 
 
@@ -26,16 +26,17 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 ## Paleta de colores
  Opción 1
 
-![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/olas.png)
+![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/mar.png)
 
  Opción 2
 
-![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/paleta.png)
+![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/paz.png)
 
 ## Buyer persona 
-![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/Usuario.jpg)
+![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/buyerpersona.jpg)
 
 ## Publico objetivo
 
 ## Wireframe Ux
+
 ## Interface de Usuario
