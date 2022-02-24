@@ -33,7 +33,7 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 ![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/paz.png)
 
 ## Buyer persona 
-![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/buyerpersona.jpg)
+![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/buyerpersona.png)
 
 ## Publico objetivo
 
