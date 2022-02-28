@@ -40,5 +40,6 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 ![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/publicobjetivo.PNG)
 
 ## Wireframe Ux
-
+![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/index.PNG)
 ## Interface de Usuario
+![](https://github.com/KarenHernandez08/Abogabot/blob/main/imagenes/UI.PNG)
